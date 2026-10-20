@@ -1,0 +1,27 @@
+header {
+    background-color: #dc143c;
+}
+
+nav {
+    background-color: #adff2f;
+}
+
+main {
+    background: #c8f9f9;
+}
+
+article {
+    background-color: #87cefa;
+}
+
+p {
+    background-color: #ffffe0;
+}
+
+section {
+    background-color: #6096fa;
+}
+
+footer {
+    background-color: #8300a8;
+}
